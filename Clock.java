@@ -33,7 +33,7 @@ public class Clock {
 
 
 
-    void displayTime24(){
+    void displayTime(){
 
         System.out.println("Time in a 24 hour clock "+hour+":"+minute+":"+seconds);
 
