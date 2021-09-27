@@ -5,7 +5,7 @@ public class Driver {
         TwelveHourClock time=new TwelveHourClock();
 
         time.displayTime12();
-        time.displayTime24();
+        time.displayTime();
 
 
 
