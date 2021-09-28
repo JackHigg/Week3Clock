@@ -14,6 +14,10 @@ public void ConvertToTwelve(){
 
         this.newHour = super.hour-12;
     }
+    else
+    {
+        this.newHour = super.hour;
+    }
 
 }
 
